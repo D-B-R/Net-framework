@@ -1,6 +1,10 @@
-static void Main(string[] args)
+classe Programa
 {
+	static void Main(string[] args)
+	{
 
-Console.WriteLine("ola Mundo");
+	Console.WriteLine("ola Mundo");
 
+	}
 }
+
