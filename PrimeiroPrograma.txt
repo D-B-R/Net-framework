@@ -1,12 +1,18 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Programa
+namespace _1_PrimeiroProjeto
 {
-	static void Main(string[] args)
-	{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("ola, mundo");
+            Console.WriteLine("fim ");
 
-	Console.WriteLine("ola Mundo");
-
-	}
+            Console.ReadLine();        }
+    }
 }
-
