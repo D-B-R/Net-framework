@@ -12,7 +12,9 @@ namespace _1_PProjeto
         {
 
             Console.WriteLine("ola mundo");
+
             Console.WriteLine("fim aperta entre");
+
             Console.ReadLine();
         }
     }
