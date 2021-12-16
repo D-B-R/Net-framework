@@ -4,17 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_PProjeto
+namespace _2_CriandoVariaveis
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("criando variaveis");
 
-            Console.WriteLine("ola mundo");
-            
-            Console.WriteLine("fim aperta entre");
+            int idade; 
+                idade = 32;
+
+            Console.WriteLine("minha idade " + idade);
+            Console.WriteLine("aperta enter");
             Console.ReadLine();
+
+
         }
     }
 }

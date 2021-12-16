@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\2-CriandoVariaveis\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
