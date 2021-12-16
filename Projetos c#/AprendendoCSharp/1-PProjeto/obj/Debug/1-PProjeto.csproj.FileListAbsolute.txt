@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\bin\Debug\1-PProjeto.exe.config
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\bin\Debug\1-PProjeto.exe
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\bin\Debug\1-PProjeto.pdb
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\obj\Debug\1-PProjeto.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\obj\Debug\1-PProjeto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\obj\Debug\1-PProjeto.exe
+C:\Users\DELL\Desktop\GIT\C#\Projetos c#\AprendendoCSharp\1-PProjeto\obj\Debug\1-PProjeto.pdb
